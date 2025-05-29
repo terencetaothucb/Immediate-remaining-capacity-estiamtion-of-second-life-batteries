@@ -50,7 +50,7 @@ Immediate-remaining-capacity-estimation-of-second-life-batteries/
 
 ## 🔧 How to Use
 
-### 1. Set up Environment
+### Set up Environment
 
 ```bash
 pip install -r requirements.txt
@@ -58,55 +58,9 @@ pip install -r requirements.txt
 
 > Python 3.8.15 is recommended.
 
-### 2. Run Domain Adaptation Model
+## Access
+Correspondence to [Terence (Shengyu) Tao](mailto:terencetaotbsi@gmail.com) and CC Prof. [Xuan Zhang](mailto:xuanzhang@sz.tsinghua.edu.cn) and [Guangmin Zhou](mailto:guangminzhou@sz.tsinghua.edu.cn) when you use, or have any inquiries.
+## Acknowledgements
+[Terence (Shengyu) Tao](mailto:terencetaotbsi@gmail.com) at Tsinghua Berkeley Shenzhen Institute prepared the data, designed the model and algorithms, developed and tested the experiments, uploaded the model and experimental code, revised the testing experiment plan, and wrote this instruction document based on supplementary materials. [MIT](https://github.com/terencetaothucb/Immediate-remaining-capacity-estiamtion-of-second-life-batteries/blob/main/LICENSE) license applied.
 
-```bash
-python DeepCORAL.py
-```
 
-### 3. Evaluate Results
-
-```bash
-python DeepCORAL-Results-to-Excel.py
-```
-
-### 4. Run Benchmarks
-
-```bash
-python Benckmarking-Models.py
-```
-
-### 5. Visualization and Analysis
-
-```bash
-python Model-Performance-Comparison.py
-python Risk-Analysis.py
-python Target-Data-Availability-Analysis.py
-```
-
----
-
-## 📄 Citation
-
-If you find this repository helpful, please cite our paper:
-
-Tao, S., et al. *Immediate remaining capacity estimation of heterogeneous second-life lithium-ion batteries via deep generative transfer learning*, 2025.
-
----
-
-## 🤝 Contributors
-
-- Shengyu Tao
-- Xuan Zhang
-- Scott Moura
-- Jinpeng Tian
-- Guangmin Zhou
-
----
-
-## 📬 Contact
-
-For questions or collaboration, please reach out to:
-
-- Shengyu Tao (terencetaothucb@berkeley.edu)
-- Prof. Xuan Zhang (xuanzhang@sz.tsinghua.edu.cn)
