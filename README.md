@@ -27,7 +27,7 @@ The core architecture includes:
 4. **CORAL net**: Performs domain adaptation across different battery types and degradation behaviors.
 
 <p align="center">
-  <img src="https://github.com/terencetaothucb/Immediate-remaining-capacity-estiamtion-of-second-life-batteries/blob/main/assets/architecture.png" width="600"/>
+  <img src="https://github.com/terencetaothucb/Immediate-remaining-capacity-estiamtion-of-second-life-batteries/blob/main/Structure.png" width="600"/>
 </p>
 
 ---
